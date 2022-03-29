@@ -1,6 +1,6 @@
 couchdb==1.2
 requests==2.13.0
-paramiko==2.4.2
+paramiko==2.10.1
 netifaces==0.10.9
 parse==1.11.1
 jsonmerge==1.6.0
